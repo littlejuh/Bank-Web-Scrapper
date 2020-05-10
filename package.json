@@ -1,0 +1,22 @@
+{
+  "name": "bank-web-scrapper",
+  "version": "1.0.0",
+  "description": "bank web scrapper for nubank",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandredrf/Bank-Web-Scrapper.git"
+  },
+  "author": "Alexandre Davi Rocha Fernandes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandredrf/Bank-Web-Scrapper/issues"
+  },
+  "homepage": "https://github.com/alexandredrf/Bank-Web-Scrapper#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
